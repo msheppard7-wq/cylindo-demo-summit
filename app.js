@@ -152,7 +152,9 @@ function renderProduct() {
         <label class="option-label">${feature.label} <span class="feature-selected" data-feature="${feature.code}">${feature.options[0].name}</span></label>
         <div class="fabric-options" data-feature-code="${feature.code}">
           ${feature.options.map((opt, i) =>
-            `<button class="fabric-btn${i === 0 ? ' active' : ''}" data-value="${opt.value}" data-name="${opt.name}">${opt.name}</button>`
+            `<button class="fabric-btn${i === 0 ? ' active' : ''}" data-value="${opt.value}" data-name="${opt.name}" aria-label="${feature.label}: ${opt.name}" title="${opt.name}">
+              <img src="${getSwatchUrl(product.code, feature.code, opt.value, 200)}" alt="${opt.name}" loading="lazy" onerror="this.style.display='none'; this.parentElement.classList.add('fallback')">
+            </button>`
           ).join('')}
         </div>
       </div>
