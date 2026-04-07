@@ -1,0 +1,163 @@
+{
+  "brand": {
+    "name": "Summit Furniture",
+    "logoText": "SUMMIT",
+    "tagline": "Cylindo 3D Product Visualization Demo",
+    "website": "https://www.summitfurniture.com",
+    "announcementText": "Cylindo 3D Product Visualization Demo — Summit Furniture",
+    "navLinks": ["Collections", "Types", "Quick Ship", "Materials & Finishes", "About"],
+    "navHighlight": "Collections",
+    "footerCopyright": "Summit Furniture — Cylindo Demo",
+    "footerColumns": [
+      {
+        "title": "Sales & Showrooms",
+        "links": ["Trade Program", "Sales", "Showrooms", "Global Hospitality"]
+      },
+      {
+        "title": "Materials & Finishes",
+        "links": ["Fabrics", "Finishes", "Teak"]
+      },
+      {
+        "title": "About",
+        "links": ["Sustainability", "Quality & Craftsmanship", "Our Promise", "Press"]
+      }
+    ],
+    "theme": {
+      "fontHeading": "'Roboto', -apple-system, BlinkMacSystemFont, sans-serif",
+      "fontBody": "'Roboto', -apple-system, BlinkMacSystemFont, sans-serif",
+      "colorBg": "#ffffff",
+      "colorBgAlt": "#F7FAFC",
+      "colorText": "#333a47",
+      "colorTextSecondary": "#4A5568",
+      "colorAccent": "#333a47",
+      "colorAccentHover": "#1A202C",
+      "colorBorder": "#E2E8F0",
+      "colorSuccess": "#2D6A4F"
+    }
+  },
+  "cylindo": {
+    "customerId": "4404",
+    "remoteConfig": "4ektaspg"
+  },
+  "products": [
+    {
+      "id": "x-collection-lounge-chair",
+      "name": "X Collection Lounge Chair",
+      "code": "X COLLECTION LOUNGE CHAIR",
+      "price": "Inquire for Pricing",
+      "priceNote": "Contact sales@summitfurniture.com",
+      "rating": 5.0,
+      "reviewCount": 0,
+      "description": "Lounge chair with arms in plantation-grown teak and marine-grade stainless-steel fittings. Oversized proportions with extra-wide arms and generous seating space. Designed by Alwy Visschedyk, the teak transforms from warm honey brown to silvery grey patina over time.",
+      "badges": [
+        { "text": "X Collection", "type": "custom" },
+        { "text": "Teak & Stainless Steel", "type": "new" }
+      ],
+      "breadcrumb": ["Home", "Collections", "X Collection", "Lounge Chair"],
+      "features": [
+        {
+          "code": "UPHOLSTERY",
+          "label": "Upholstery",
+          "options": [
+            { "name": "Cotswolds Shell White", "value": "CW0121" },
+            { "name": "Mazie Sundeck Blue", "value": "MZ0123" },
+            { "name": "Pebble Beach Terracotta", "value": "PB0130" },
+            { "name": "Reference White", "value": "REFERENCE WHITE" }
+          ]
+        }
+      ],
+      "highlights": [
+        { "title": "Plantation-Grown Teak", "description": "Sustainably sourced teak that develops a beautiful silvery grey patina over time." },
+        { "title": "Marine-Grade Fittings", "description": "Stainless-steel hardware built to withstand the elements in any climate." },
+        { "title": "Oversized Proportions", "description": "Extra-wide arms and generous seating space for ultimate outdoor comfort." },
+        { "title": "Designer Craftsmanship", "description": "Designed by Alwy Visschedyk with meticulous attention to detail." },
+        { "title": "Interactive 3D", "description": "Explore every angle and upholstery option with Cylindo's 360° viewer." }
+      ],
+      "specs": [
+        {
+          "group": "Dimensions",
+          "items": [
+            ["Width", "41 in (104 cm)"],
+            ["Depth", "36 in (91 cm)"],
+            ["Height", "28 in (71 cm)"],
+            ["Seat Width", "26 in (66 cm)"],
+            ["Seat Depth", "26 in (66 cm)"],
+            ["Seat Height", "11 in (28 cm)"],
+            ["Arm Height", "23 in (58 cm)"]
+          ]
+        },
+        {
+          "group": "Details",
+          "items": [
+            ["Model", "X500"],
+            ["Frame", "Plantation-grown teak"],
+            ["Fittings", "Marine-grade stainless steel"],
+            ["COM", "3 yd (3 m)"],
+            ["Weight", "80 lb (36 kg)"],
+            ["Designer", "Alwy Visschedyk"]
+          ]
+        }
+      ],
+      "faqs": [
+        { "q": "What type of teak is used?", "a": "Summit uses plantation-grown teak, sustainably sourced and known for its natural durability and beauty." },
+        { "q": "Will the teak change color over time?", "a": "Yes — teak naturally transforms from a warm honey brown to a silvery grey patina. This can be maintained or allowed to develop naturally." },
+        { "q": "Can I choose custom fabrics?", "a": "Summit offers a wide range of performance fabrics including Summit Endurance, Nina Campbell, and Ultra collections. Contact your sales representative for the full range." },
+        { "q": "Is this suitable for outdoor use?", "a": "Absolutely. The X Collection is designed for outdoor and hospitality environments with marine-grade stainless-steel fittings." },
+        { "q": "How do I place an order?", "a": "Contact Summit Furniture at sales@summitfurniture.com or visit a showroom." }
+      ],
+      "leadTime": "Contact sales for lead time"
+    },
+    {
+      "id": "x-collection-footrest",
+      "name": "X Collection Footrest",
+      "code": "X COLLECTION FOOTREST",
+      "price": "Inquire for Pricing",
+      "priceNote": "Contact sales@summitfurniture.com",
+      "rating": 5.0,
+      "reviewCount": 0,
+      "description": "Matching footrest for the X Collection in plantation-grown teak and marine-grade stainless-steel fittings. Designed to pair perfectly with the X Collection Lounge Chair for complete outdoor relaxation.",
+      "badges": [
+        { "text": "X Collection", "type": "custom" },
+        { "text": "Teak & Stainless Steel", "type": "new" }
+      ],
+      "breadcrumb": ["Home", "Collections", "X Collection", "Footrest"],
+      "features": [
+        {
+          "code": "UPHOLSTERY",
+          "label": "Upholstery",
+          "options": [
+            { "name": "Cotswolds Shell White", "value": "CW0121" },
+            { "name": "Mazie Sundeck Blue", "value": "MZ0123" },
+            { "name": "Pebble Beach Terracotta", "value": "PB0130" },
+            { "name": "Reference White", "value": "REFERENCE WHITE" }
+          ]
+        }
+      ],
+      "highlights": [
+        { "title": "Perfect Pairing", "description": "Designed to complement the X Collection Lounge Chair for a complete outdoor set." },
+        { "title": "Plantation-Grown Teak", "description": "Sustainably sourced teak that develops a beautiful silvery grey patina over time." },
+        { "title": "Marine-Grade Fittings", "description": "Stainless-steel hardware built to withstand the elements." },
+        { "title": "Performance Fabrics", "description": "Choose from Summit's curated fabric collections for the perfect look." },
+        { "title": "Interactive 3D", "description": "Explore every angle with Cylindo's 360° viewer." }
+      ],
+      "specs": [
+        {
+          "group": "Product Information",
+          "items": [
+            ["Model", "X Collection Footrest"],
+            ["Frame", "Plantation-grown teak"],
+            ["Fittings", "Marine-grade stainless steel"],
+            ["Available Upholstery", "4 options"],
+            ["Designer", "Alwy Visschedyk"]
+          ]
+        }
+      ],
+      "faqs": [
+        { "q": "Does this pair with the X Collection Lounge Chair?", "a": "Yes — the footrest is designed as a matching companion to the X Collection Lounge Chair." },
+        { "q": "Can I order custom fabric?", "a": "Contact Summit Furniture for the full range of fabric options beyond the 3D preview selections." },
+        { "q": "How do I place an order?", "a": "Contact Summit Furniture at sales@summitfurniture.com or visit a showroom." }
+      ],
+      "leadTime": "Contact sales for lead time"
+    }
+  ]
+}
